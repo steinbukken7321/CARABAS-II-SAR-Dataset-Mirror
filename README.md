@@ -8,7 +8,7 @@ O sensor CARABAS-II opera na banda VHF (20–90 MHz), o que permite a penetraç�
 ## 📂 Estrutura do Repositório
 Conforme a estrutura atualizada, o repositório está organizado da seguinte forma:
 
-* **`imgs/`**: Contém as imagens de radar em formato bruto e processado (magnitude/fase).
+* **`img/`**: Contém as imagens de radar em formato bruto e processado (magnitude/fase).
 * **`LICENSE`**: Arquivo de licença GNU GPLv3 garantindo a proteção do uso acadêmico.
 * **`README.md`**: Documentação principal do repositório.
 
